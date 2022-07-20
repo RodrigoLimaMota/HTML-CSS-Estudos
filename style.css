@@ -1,0 +1,145 @@
+
+header{
+    display:flex;
+    justify-content: space-between;
+    
+    border-bottom: solid 5px #1a2e40ff;
+}
+
+a{
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+    font-weight:300;
+}
+a:hover{
+    color:white
+}
+
+.title {
+    font-family: 'Baskervville', serif; 
+    font-size:18px;
+}
+
+/* background colors */
+.backg-white {
+    background-color: #f9f9f9ff;
+}
+
+.backg-black {
+    background-color: #06080dff;
+}
+.backg-darkblue {
+    background-color: #1a2e40ff;
+}
+
+.backg-blue {
+    background-color: #1b8ef2ff;
+}
+
+.backg-lightblue {
+    background-color: #5cb9f2ff;
+}
+.backg-grey {
+    background-color: #aec8deff;
+}
+
+/* text colors */
+.text-white {
+    color: #f9f9f9ff;
+}
+
+.text-black {
+    color: #06080dff;
+}
+.text-grey {
+    color: #aec8deff;
+}
+
+/* paddings */
+
+.paddingtop-1{
+    padding-top:20px;
+}
+.paddingright-1{
+    padding-right:15px;
+}
+.paddingbottom-1{
+    padding-bottom:20px;
+}
+.paddingleft-1{
+    padding-left:15px;
+}
+.paddingX-1{
+    padding-right:15px;
+    padding-left:15px;
+}
+.paddingY-1{
+    padding-top:25px;
+    padding-bottom:20px;
+}
+.paddingtop-2{
+    padding-top:60px;
+}
+.paddingright-2{
+    padding-right:45px;
+}
+.paddingbottom-2{
+    padding-bottom:60px;
+}
+.paddingleft-2{
+    padding-left:45px;
+}
+.paddingX-2{
+    padding-right:45px;
+    padding-left:45px;
+}
+.paddingY-2{
+    padding-top:60px;
+    padding-bottom:60px;
+}
+
+
+
+/* Margins */
+
+.margintop-1{
+    margin-top:20px;
+}
+.marginright-1{
+    margin-right:15px;
+}
+.marginbottom-1{
+    margin-bottom:20px;
+}
+.marginleft-1{
+    margin-left:15px;
+}
+.marginX-1{
+    margin-right:15px;
+    margin-left:15px;
+}
+.marginY-1{
+    margin-top:20px;
+    margin-bottom:20px;
+}
+
+.margintop-2{
+    margin-top:60px;
+}
+.marginright-2{
+    margin-right:45px;
+}
+.marginbottom-2{
+    margin-bottom:60px;
+}
+.marginleft-2{
+    margin-left:45px;
+}
+.marginX-2{
+    margin-right:45px;
+    margin-left:45px;
+}
+.marginY-2{
+    margin-top:60px;
+    margin-bottom:60px;
+}
